@@ -1,3 +1,14 @@
-# bookbot
+## Table of contents
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+*First thing created in quite a while, learning Python instead of React now.
+
+## Author
+- Skwiera-Magic - [My GitHub](https://github.com/Skwiera-Magic/)# bookbot
